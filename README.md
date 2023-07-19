@@ -1,10 +1,10 @@
-<img src="https://github.com/catherineisonline/travel-with-catherine/blob/main/public/projectPreview.png?raw=true"></img>
+<img src="https://github.com/laubaichef/laubaichef.github.io/blob/main/public/projectPreview.png?raw=true"></img>
 
-# Travel With Catherine
+# Gourmet Foods with Bai 
 
-[![GitHub license](https://img.shields.io/github/license/catherineisonline/travel-with-catherine)](https://github.com/catherineisonline/travel-with-catherine/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/catherineisonline/travel-with-catherine)](https://github.com/catherineisonline/travel-with-catherine/issues)
-[![GitHub stars](https://img.shields.io/github/stars/catherineisonline/travel-with-catherine)](https://github.com/catherineisonline/travel-with-catherine/stargazers)
+[![GitHub license](https://img.shields.io/github/license/laubaichef/laubaichef.github.io)](https://github.com/laubaichef/laubaichef.github.io/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/laubaichef/laubaichef.github.io)](https://github.com/laubaichef/laubaichef.github.io/issues)
+[![GitHub stars](https://img.shields.io/github/stars/laubaichef/laubaichef.github.io)](https://github.com/laubaichef/laubaichef.github.io/stargazers)
 
 ## Table of Contents
 
