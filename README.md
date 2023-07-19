@@ -29,11 +29,11 @@ If you are interested in the code behind this project, you can find it in the `s
 
 ## Contributing
 
-This project serves as a personal portfolio website to show off my personal skills. I do not accept any contibutions for this project however if you have any suggestions or ideas feel free to message me or submit an idea in the [discussions](https://github.com/catherineisonline/travel-with-catherine/discussions)
+This project serves as a personal portfolio website to show off my personal skills. I do not accept any contibutions for this project however if you have any suggestions or ideas feel free to message me or submit an idea in the [discussions](https://github.com/laubaichef/laubaichef.github.io/discussions)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/catherineisonline/travel-with-catherine/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/laubaichef/laubaichef.github.io/blob/main/LICENSE) file for details.
 Please do not use my images as your own. You are free to use them as long as it doesn't say they belong to you and you captured the places you have not even seen. 
 
 ## Acknowledgements
