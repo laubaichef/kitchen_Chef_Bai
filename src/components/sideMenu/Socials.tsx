@@ -5,7 +5,7 @@ const Socials = () => {
   return (
     <section className="flex flex-row gap-3">
       <a
-        href="https://github.com/catherineisonline/travel-with-catherine"
+        href="https://github.com/laubaichef/laubaichef.github.io"
         target="_blank"
         rel="noopener noreferrer"
       >
